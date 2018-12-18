@@ -3,7 +3,7 @@ id: gsa-digital-customer-transformation
 layout: newprojects
 agency: "GSA"
 title: "General Services Administration, Office of Strategic Communications, Digital Customer Transformation"
-cover_art: "gsa.png"
+cover_art: "gsa-digital-customer-transformation.jpg"
 subtitle: "How might we help GSA streamline its web presence and save taxpayer dollars?  
 "
 
