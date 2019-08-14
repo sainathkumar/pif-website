@@ -1,6 +1,6 @@
 ---
 id: usda-farmers
-layout: newprojects
+layout: projects
 agency: "USDA"
 title: "USDA - Farmers.gov"
 cover_art: "hero-new-farmers_copy.jpg"
@@ -25,15 +25,3 @@ tags:
     - Healthcare
 
 ---
-
-<!--
-
-
-
-impact_metrics:
-  - { metric: "[Insert quote]", desc: "[Quote subtitle]" }
-
-articles:
-  - { outlet: "[Media Outlet]", logo_src: "logo.jpg", title: "Article Title", quote: "Quote", url: "article URL" }
-
-	-->

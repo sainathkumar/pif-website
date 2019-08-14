@@ -1,6 +1,6 @@
 ---
 id: diux-startups
-layout: newprojects
+layout: projects
 agency: "DIUx"
 title: "DIUx Startup Collaboration"
 cover_art: "DIUX_Small_Hero.jpg"
@@ -27,15 +27,3 @@ tags:
     - Healthcare
 
 ---
-
-<!--
-
-
-
-impact_metrics:
-  - { metric: "[Insert quote]", desc: "[Quote subtitle]" }
-
-articles:
-  - { outlet: "[Media Outlet]", logo_src: "logo.jpg", title: "Article Title", quote: "Quote", url: "article URL" }
-
-	-->

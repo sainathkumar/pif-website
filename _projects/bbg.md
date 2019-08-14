@@ -1,6 +1,6 @@
 ---
 id: bbg
-layout: newprojects
+layout: projects
 agency: "BBG"
 title: "Broadcasting Board of Governors "
 cover_art: "bbg.jpeg"
@@ -26,15 +26,3 @@ tags:
     - Healthcare
 
 ---
-
-<!--
-
-
-
-impact_metrics:
-  - { metric: "[Insert quote]", desc: "[Quote subtitle]" }
-
-articles:
-  - { outlet: "[Media Outlet]", logo_src: "logo.jpg", title: "Article Title", quote: "Quote", url: "article URL" }
-
-	-->

@@ -1,6 +1,6 @@
 ---
 id: nist
-layout: newprojects
+layout: projects
 agency: "NIST"
 title: "NIST Tech Transfer"
 cover_art: "nist.jpg"
@@ -29,15 +29,3 @@ tags:
     - Healthcare
 
 ---
-
-<!--
-
-
-
-impact_metrics:
-  - { metric: "[Insert quote]", desc: "[Quote subtitle]" }
-
-articles:
-  - { outlet: "[Media Outlet]", logo_src: "logo.jpg", title: "Article Title", quote: "Quote", url: "article URL" }
-
-	-->

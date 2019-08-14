@@ -1,6 +1,6 @@
 ---
 id: state-sec
-layout: newprojects
+layout: projects
 agency: "State"
 title: "State, Senior Advisor"
 cover_art: "state_hero.png"
@@ -22,15 +22,3 @@ tags:
     - Data
 
 ---
-
-<!--
-
-
-
-impact_metrics:
-  - { metric: "[Insert quote]", desc: "[Quote subtitle]" }
-
-articles:
-  - { outlet: "[Media Outlet]", logo_src: "logo.jpg", title: "Article Title", quote: "Quote", url: "article URL" }
-
-	-->

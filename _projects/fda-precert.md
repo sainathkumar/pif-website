@@ -1,6 +1,6 @@
 ---
 id: fda-precert
-layout: newprojects
+layout: projects
 agency: "FDA"
 title: "FDA Pre-Cert Program"
 cover_art: "hero-fda-informed.jpg"
@@ -33,15 +33,3 @@ tags:
     - Healthcare
 
 ---
-
-<!--
-
-
-
-impact_metrics:
-  - { metric: "[Insert quote]", desc: "[Quote subtitle]" }
-
-articles:
-  - { outlet: "[Media Outlet]", logo_src: "logo.jpg", title: "Article Title", quote: "Quote", url: "article URL" }
-
-	-->

@@ -1,6 +1,6 @@
 ---
 id: bbg
-layout: newprojects
+layout: projects
 agency: "USAGM"
 title: "U.S. Agency for Global Media"
 cover_art: "usagm.jpeg"
@@ -27,15 +27,3 @@ tags:
     - Healthcare
 
 ---
-
-<!--
-
-
-
-impact_metrics:
-  - { metric: "[Insert quote]", desc: "[Quote subtitle]" }
-
-articles:
-  - { outlet: "[Media Outlet]", logo_src: "logo.jpg", title: "Article Title", quote: "Quote", url: "article URL" }
-
-	-->

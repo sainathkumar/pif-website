@@ -21,9 +21,9 @@ exclude:
   - vendor
 
 collections:
-  projects:
+  case-studies:
     output: true
-  newprojects:
+  projects:
     output: true
 
 

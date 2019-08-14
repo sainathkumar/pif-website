@@ -1,6 +1,6 @@
 ---
 id: gsa-customer-experience
-layout: newprojects
+layout: projects
 agency: "GSA"
 title: "General Services Administration Office of Produce and Platforms and White House Office of Management and Budget, Customer Experience Cross-Agency Priority Goal"
 cover_art: "gsa.png"
@@ -33,15 +33,3 @@ tags:
     - Healthcare
 
 ---
-
-<!--
-
-
-
-impact_metrics:
-  - { metric: "[Insert quote]", desc: "[Quote subtitle]" }
-
-articles:
-  - { outlet: "[Media Outlet]", logo_src: "logo.jpg", title: "Article Title", quote: "Quote", url: "article URL" }
-
-	-->

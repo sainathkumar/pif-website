@@ -1,6 +1,6 @@
 ---
 id: all-of-us
-layout: newprojects
+layout: projects
 agency: "NIH"
 title: "All of Us Research Initiatives"
 cover_art: "all-of-us-participants.jpg"

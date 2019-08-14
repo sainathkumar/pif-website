@@ -1,6 +1,6 @@
 ---
 id: va-veo
-layout: newprojects
+layout: projects
 agency: "VA"
 title: "Improving Veteran's Experience"
 cover_art: "va-journey-map.png"

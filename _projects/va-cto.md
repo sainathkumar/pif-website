@@ -1,6 +1,6 @@
 ---
 id: va-cto
-layout: newprojects
+layout: projects
 agency: "VA"
 title: "Improving Services for Veterans"
 cover_art: "va-cto.jpg"
